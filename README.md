@@ -1,6 +1,10 @@
 # Autores Management System
 
+DASHBOARD CRUD- OPERATIONS
 ![Autores Management System](/autors.png)
+
+USER´S CAN lOGIN - REGISTER 
+![Autores Management System](/validaciones-login-register.png)
 
 ### `npm start`
 
